@@ -1,0 +1,70 @@
+{
+  "docs/architecture/extension-architecture.mmd": {
+    "timestamp": 1744337711097,
+    "hash": "4e554d238e82d2edfc277cc764b745b3"
+  },
+  "docs/architecture/README.md": {
+    "timestamp": 1744337718768,
+    "hash": "cd16eca87a4c374f0f2c4872acec973f"
+  },
+  "docs/cline-customization/clineignore.md": {
+    "timestamp": 1744337731328,
+    "hash": "2706e75f56fce541386d97094ad31e7c"
+  },
+  "docs/getting-started-new-coders/installing-dev-essentials.md": {
+    "timestamp": 1744337747165,
+    "hash": "8486fb6d6c103e415c2452a353c80b4c"
+  },
+  "docs/getting-started-new-coders/README.md": {
+    "timestamp": 1744337770441,
+    "hash": "93d8621767e532ebf93bf161b06554ec"
+  },
+  "docs/mcp/mcp-quickstart.md": {
+    "timestamp": 1744337795177,
+    "hash": "addd5349cd73c693c530a28c93bb3bf2"
+  },
+  "docs/mcp/mcp-server-from-github.md": {
+    "timestamp": 1744337811019,
+    "hash": "2b70522647a736f24418e4f314f1f957"
+  },
+  "docs/mcp/mcp-server-from-scratch.md": {
+    "timestamp": 1744337845720,
+    "hash": "75c8ac7020a4e5661179ff63cbcaa580"
+  },
+  "docs/mcp/README.md": {
+    "timestamp": 1744337862816,
+    "hash": "0df03d7f0cdff741a5f8dbbfa44ff2eb"
+  },
+  "docs/PRIVACY.md": {
+    "timestamp": 1744337867389,
+    "hash": "a8f054bdc7d6357f8addbe18267a8314"
+  },
+  "docs/prompting/custom instructions library/cline-memory-bank.md": {
+    "timestamp": 1744337884603,
+    "hash": "fe46f0bf40ff9c90e40c48c912696b38"
+  },
+  "docs/prompting/custom instructions library/raw-instructions/cline-memory-bank.md": {
+    "timestamp": 1744337901584,
+    "hash": "e27dcd90c3b50c284afb633c4afbf795"
+  },
+  "docs/prompting/custom instructions library/README.md": {
+    "timestamp": 1744337914753,
+    "hash": "0268280ed6b23bd88b40daf43ecf7fef"
+  },
+  "docs/prompting/README.md": {
+    "timestamp": 1744337959412,
+    "hash": "c1eb8f5eaa80ce87aafff9a8b5ff6ffd"
+  },
+  "docs/README.md": {
+    "timestamp": 1744337967836,
+    "hash": "ff04342c5f963f48e4856720a1343a1b"
+  },
+  "docs/tools/cline-tools-guide.md": {
+    "timestamp": 1744337981798,
+    "hash": "ed8adbef0c962902bb22196379cdb876"
+  },
+  "docs/tools/mentions-guide.md": {
+    "timestamp": 1744338003674,
+    "hash": "bb34b97be88030c0627b002e677a838d"
+  }
+}
